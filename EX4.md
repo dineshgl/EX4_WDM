@@ -17,7 +17,7 @@
 ```python
 # Visitor segmentation based on characteristics
 # read the data
-# /*WRITE YOUR CODE HERE
+/*WRITE YOUR CODE HERE
 
 # Perform segmentation based on characteristics (e.g., age groups)
 /*WRITE YOUR CODE HERE
