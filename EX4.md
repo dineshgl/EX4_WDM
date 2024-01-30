@@ -16,20 +16,12 @@
 ### Program:
 ```python
 # Visitor segmentation based on characteristics
-visitor_df = pd.read_csv('clustervisitor.csv')
+# read the data
+# /*WRITE YOUR CODE HERE
 
 # Perform segmentation based on characteristics (e.g., age groups)
-age_groups = {
-    'Young': (visitor_df['Age'] <= 30),
-    'Middle-aged': ((visitor_df['Age'] > 30) & (visitor_df['Age'] <= 50)),
-    'Elderly': (visitor_df['Age'] > 50)
-}
+/*WRITE YOUR CODE HERE
 
-for group, condition in age_groups.items():
-    visitors_in_group = visitor_df[condition]
-    print(f"Visitors in {group} age group:")
-    print(visitors_in_group)
-    print()
 ```
 ### Output:
 
