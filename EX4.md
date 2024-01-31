@@ -28,15 +28,13 @@
 ### Visualization:
 ```python
 # Create a list to store counts of visitors in each age group
-visitor_counts = []
+/*WRITE YOUR CODE HERE
 
 # Count visitors in each age group
-for group, condition in age_groups.items():
-    visitors_in_group = visitor_df[condition]
-    visitor_counts.append(len(visitors_in_group))
+/*WRITE YOUR CODE HERE
     
 # Define age group labels and plot a bar chart
-age_group_labels = list(age_groups.keys())
+/*WRITE YOUR CODE HERE
 
 plt.figure(figsize=(8, 6))
 plt.bar(age_group_labels, visitor_counts, color='skyblue')
